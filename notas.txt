@@ -1,0 +1,9 @@
+patrones de diseño a implementar:
+
+-observer
+-chain of responsability
+-iterator
+-mediator
+
+problemas
+-god class
